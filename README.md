@@ -64,25 +64,6 @@
 - **Production deployment and integration using Docker, Kubernetes, and CI/CD practices.**
 ---
 
-## Education and Certifications
-
-I'm currently deepening my knowledge in **cloud environments and deployment of scalable artificial intelligence solutions**. I'm preparing for certification:
-
-- **AWS Certified Generative AI Developer - Professional** *(In preparation)*
-
-Completed certifications:
-
-- ✅ **IBM Data Analyst**
-- ✅ **IBM Machine Learning**
-- ✅ **IBM Business Intelligence Analyst**
-- ✅ **AWS Cloud Practitioner Essentials**
-- ✅ **Associate AI Engineer for Developers**
-- ✅ **Introduction to Amazon Bedrock**
-- ✅ **Developing Applications with LangChain**
-- ✅ **AWS Certified AI Practitioner (AIF-C01)**
-- ✅ **AWS Certified Cloud Practitioner (CLF-C02)**
----
-
 ## Technologies and Tools
 
 - **LangChain & LangGraph**: Development of conversational agents and complex interaction flows.
@@ -104,7 +85,3 @@ Completed certifications:
 - Integration of ML solutions with **external systems** through APIs and databases.
 
 ---
-
-# 📊 GitHub Stats:
-![LeonAchata's Stats](https://github-readme-stats.vercel.app/api?username=LeonAchata&theme=react&show_icons=true&hide_border=true&count_private=true)
-![LeonAchata's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonAchata&theme=react&show_icons=true&hide_border=true&layout=compact)
