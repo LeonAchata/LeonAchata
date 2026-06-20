@@ -31,7 +31,6 @@
       <td valign="top" align="center">
         <img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" alt="FastAPI" height="50" />
         <img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" height="50" />
-        <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/WebSocket_colored_logo.svg/1200px-WebSocket_colored_logo.svg.png" alt="WebSocket" height="50" />
         <img style="margin: 10px" src="https://avatars.githubusercontent.com/u/12972006?s=280&v=4" alt="GraphQL" height="50" />
       </td>
       <td valign="top" align="center">
