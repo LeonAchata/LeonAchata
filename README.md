@@ -34,6 +34,13 @@ leon = {
 - **Cloud & DevOps** — containerized deployments on AWS (EKS, ECR, Lambda, Bedrock, S3, DynamoDB, CloudWatch, Secrets Manager), infrastructure as code with AWS CDK, CI/CD.
 - **Data engineering** — PySpark pipelines and data processing for analytics and model workloads.
 
+## Featured projects
+
+| Project | Highlights |
+| --- | --- |
+| [**SQL Agent**](https://github.com/LeonAchata/SQL-Chatbot) | Ask any SQL database in plain language. Schema-agnostic catalog via SQLAlchemy, LangGraph self-repair loop, sqlglot AST guard with read-only execution, execution-accuracy evals, Next.js streaming UI. |
+| [**DocuChat**](https://github.com/LeonAchata/DocuChat-AI) | Grounded Q&A over your documents. Hybrid retrieval (dense + BM25 + SPLADE) with RRF, cross-encoder reranking, MMR, a corrective-RAG loop, Claude native citations and a BEIR benchmark. |
+
 ## Tech stack
 
 **Languages**
