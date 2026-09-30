@@ -11,8 +11,6 @@
 
 ## About me
 
-[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=LeonAchata)](https://github.com/stats-organization/github-stats-extended)
-
 I'm a **Software Engineer** who designs and ships production systems end to end — from typed Python and TypeScript backends to cloud infrastructure and the web front ends that sit on top. My specialty is **Generative AI**: LLM agents, RAG pipelines and workflow automation built to enterprise standards of reliability, security and scale.
 
 Currently I'm a **GenAI Engineer at TCS, working on enterprise projects for Apple**, where I lead the design and delivery of LLM-powered automation that connects internal tools into end-to-end workflows, alongside engineering teams across the Americas and APAC.
