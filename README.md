@@ -11,7 +11,7 @@
 
 ## About me
 
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=LeonAchata)](https://github.com/stats-organization/github-stats-extended)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=LeonAchata)](https://github.com/stats-organization/github-stats-extended)
 
 I'm a **Software Engineer** who designs and ships production systems end to end — from typed Python and TypeScript backends to cloud infrastructure and the web front ends that sit on top. My specialty is **Generative AI**: LLM agents, RAG pipelines and workflow automation built to enterprise standards of reliability, security and scale.
 
