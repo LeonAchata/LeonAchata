@@ -80,7 +80,6 @@ leon = {
 
 Every repository above follows the same bar:
 
-- **Tested without secrets** — test suites mock the LLM and external APIs, so anyone can clone and run them; CI runs on every push.
 - **Typed and validated** — Pydantic schemas at every boundary, strict typing where it pays off.
 - **Measured, not assumed** — retrieval and agent quality are tracked with benchmarks (execution accuracy, Hit@k, MRR) instead of vibes.
 - **Safe by default** — read-only execution, least-privilege roles and credentials, guards on model output, graceful degradation when a dependency fails.
